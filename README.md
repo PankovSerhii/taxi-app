@@ -38,7 +38,7 @@ Try to use on Heroku - <a href="https://taxi-app-1.herokuapp.com/index">Taxi man
 
 ## <a id="how-to-run"></a>How to run
 [content](#content)
-- Fill (real variables names in ConnectionUtil) to ConnectionUtil.
+- Fill real variables names to ConnectionUtil.
 - Initialize DB using init_db.sql file.
 - Configure Tomcat
 - Launch the project
