@@ -8,7 +8,7 @@ Try to use on Heroku - <a href="https://taxi-app-1.herokuapp.com/index">Taxi man
 ## <a id="content"></a>Content
 - [Description of features](#description)
 - [Model structure](#model-structure)
-- [Technologies](#technologies)
+- [Technology](#technology)
 - [How to run](#how-to-run)
 
 ## <a id="description"></a>Description of features
@@ -27,7 +27,7 @@ Try to use on Heroku - <a href="https://taxi-app-1.herokuapp.com/index">Taxi man
 
 ![model structure](auxiliary/shema-photo.jpeg)
 
-## <a id="technologies"></a>Technology
+## <a id="technology"></a>Technology
 [content](#content)
 - Java 11
 - Java Servlet API
