@@ -1,7 +1,9 @@
 # Taxi manager 
 ![drawing](auxiliary/cover-photo.jpg)
-######
-<a href="https://taxi-app-1.herokuapp.com/index">Taxi manager</a> - web application with a basic UI interface which simulates taxi service work.
+
+Web application with a basic UI interface which simulates taxi service work.
+##### 
+Try to use on Heroku - <a href="https://taxi-app-1.herokuapp.com/index">Taxi manager</a>
 
 ## <a id="content"></a>Content
 - [Description of features](#description)
